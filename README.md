@@ -48,3 +48,5 @@ Importez les fichiers suivants :
   - **Action** : Supprimer la clé.
 - **Emplacement** : `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit`
   - **Action** : Supprimer la clé.
+ 
+Video : 
